@@ -6,11 +6,11 @@ class App < Sinatra::Base
   end
 
   get '/new' do
-    
+
   end
 
   post '/puppy' do
-    
+
   end
-  
+
 end
