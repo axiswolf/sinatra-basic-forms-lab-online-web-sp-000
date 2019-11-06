@@ -7,6 +7,6 @@ class Puppy
     @months_old = months_old
   end
   def save
-
+    @@puppies << self
   end
 end
